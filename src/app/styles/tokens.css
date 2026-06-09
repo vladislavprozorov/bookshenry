@@ -1,0 +1,3 @@
+:root:where([data-theme=light])_{
+    --background-paper-base: #fff;
+}
