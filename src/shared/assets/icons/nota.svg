@@ -1,0 +1,47 @@
+<svg
+    width="240"
+    height="40"
+    viewBox="0 0 240 40"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <!-- НОТА -->
+
+    <text
+      x="0"
+      y="28"
+      font-size="24"
+      font-weight="700"
+      fill="currentColor"
+    >
+      НОТА
+    </text>
+
+    <!-- знак -->
+
+    <g transform="translate(95,4)">
+      <rect
+        width="28"
+        height="32"
+        rx="6"
+        fill="currentColor"
+      />
+
+      <path
+        d="M8 24V8H12L20 18V8H22V24H18L10 14V24Z"
+        fill="white"
+      />
+    </g>
+
+    <!-- КНИГИ -->
+
+    <text
+      x="140"
+      y="28"
+      font-size="24"
+      font-weight="700"
+      fill="currentColor"
+    >
+      КНИГИ
+    </text>
+  </svg>

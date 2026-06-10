@@ -1,3 +1,37 @@
-:root:where([data-theme=light])_{
-    --background-paper-base: #fff;
+:root:where([data-theme='light']) {
+  /* background */
+
+  --background-base: #ffffff;
+  --background-page: #fafafa;
+
+  /* text */
+
+  --text-primary: #111111;
+  --text-secondary: #707070;
+
+  /* lines */
+
+  --lines-common: #ececec;
+
+  /* radius */
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  /* spacing */
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  /* layout */
+
+  --header-height: 64px;
+  --container-max-width: 1280px;
+
+  --container-padding: 24px;
 }

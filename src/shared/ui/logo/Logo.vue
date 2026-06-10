@@ -1,5 +1,8 @@
 <template>
-    <RouterLink to="/">
-        <span>Нота</span>
-    </RouterLink>
+    <NotaIcon />
 </template>
+
+<script setup lang="ts">
+import NotaIcon from '@/shared/assets/icons/nota.svg'
+
+</script>
